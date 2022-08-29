@@ -1,0 +1,15 @@
+/home/kmkochetkov/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001
+/home/kmkochetkov/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.deps.json
+/home/kmkochetkov/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.runtimeconfig.json
+/home/kmkochetkov/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.dll
+/home/kmkochetkov/Projects/repo/Examples/Ex001/bin/Debug/net6.0/ref/Ex001.dll
+/home/kmkochetkov/Projects/repo/Examples/Ex001/bin/Debug/net6.0/Ex001.pdb
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.AssemblyReference.cache
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfoInputs.cache
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfo.cs
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.CoreCompileInputs.cache
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.dll
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/ref/Ex001.dll
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.pdb
+/home/kmkochetkov/Projects/repo/Examples/Ex001/obj/Debug/net6.0/Ex001.genruntimeconfig.cache
