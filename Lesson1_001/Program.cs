@@ -11,5 +11,4 @@ if (number == 4) Console.WriteLine("Вы выбрали четверг");
 if (number == 5) Console.WriteLine("Вы выбрали пятницу");
 if (number == 6) Console.WriteLine("Вы выбрали субботу");
 if (number == 7) Console.WriteLine("Вы выбрали воскресенье");
-//
-//    Console.Write("Вы выбрали понедельник ");
+Console.WriteLine("Сегодня прекрасный день!")
